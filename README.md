@@ -14,7 +14,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
  
 ##### BIO
 
-- 🏢 I'm currently looking for a web developer job (south of France or remote ✈️)
+- 🚀 I'm currently looking for a web developer job (south of France or remote ✈️)
 - ⚙️ I use daily: `.php`, `.js`, `.ts`, `.html`, `.css`, `.indd`, `.psd`, `.ai` 
 - 🌱 Learning all about **MEAN Stack** (MongoDB, Express.js, AngularJS & Node.js) + **Symfony**
 - 💬 Ping me about **design**, **branding**, **development**, **e-commerce** & **lasagna**
