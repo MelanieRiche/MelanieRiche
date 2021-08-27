@@ -8,7 +8,7 @@
 I'm a **fullstack web developer** with **Graphic & Web Design** background & a love for anything Design or Tech. 
 
 PHP was my first language when I created *Fansites-Wordpress/Coppermine-Themes* as a teen + discovered a passion for CSS.
-10 years later I'm still exploring the front & back-end of the web. Thanks to a graduating 6 months bootcamp in 2020/2021, I'm confident to experiment with and learn new technologies 👩‍💻
+10 years later I'm still exploring the front & back-end of the web. Thanks to a graduating 5 months bootcamp in 2020/2021, I'm confident to experiment with and learn new technologies 👩‍💻
 
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. 
  
